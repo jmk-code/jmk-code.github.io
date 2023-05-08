@@ -2,7 +2,7 @@ div .banner {
   background-color: yellow;
 }
 
-header li {
+.header li {
   display: inline-block;
   padding: 10px;
 }
