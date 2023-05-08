@@ -1,3 +1,7 @@
 div .banner {
   background-color: yellow;
 }
+
+.header {
+  display: inline-block;
+}
