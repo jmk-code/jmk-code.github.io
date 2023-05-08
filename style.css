@@ -2,6 +2,6 @@ div .banner {
   background-color: yellow;
 }
 
-.header {
+.header ul {
   display: inline-block;
 }
